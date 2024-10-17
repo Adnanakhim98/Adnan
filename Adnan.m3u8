@@ -1,4 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXTINF:10,
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/index.m3u8
+http://example.com/video1.ts
+#EXTINF:8,
+http://example.com/video2.ts
+#EXTINF:10,
+http://example.com/video3.ts
